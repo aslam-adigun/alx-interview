@@ -1,2 +1,2 @@
-# # 0x14-nqueens
+# # 0x05-nqueens
 
